@@ -1,6 +1,54 @@
 .cpuinfo {
-  color: red;
+  border: 1px solid black;
+  height: 300px;
+  width: 800px;
+  color: black;
+} 
+
+.title {
+  font-size: 14px;
+}
+
+.cpuinfo span {
+  font-size: 10px;
+}
+
+.memory {
   border: 1px solid black;
   height: 200px;
   width: 800px;
-} 
+}
+
+.bar1 {
+  fill: #aaa;
+  height: 21px;
+  transition: fill .3s ease;
+  cursor: pointer;
+  font-family: Helvetica, sans-serif;
+}
+
+.bar2 {
+  fill: red;
+  height: 21px;
+  transition: fill .3s ease;
+  cursor: pointer;
+  font-family: Helvetica, sans-serif;
+}
+
+.bar1 text {
+  fill: #555;
+}
+
+.bar2 text {
+  fill: black;
+}
+
+figcaption {
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
