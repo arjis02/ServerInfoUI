@@ -1,7 +1,7 @@
 {
 
     "Active": {
-        "size": 816548
+        "size": 816544
 ,
         "units": ["kB"]
     }
@@ -13,7 +13,7 @@
     }
 ,
     "MemFree": {
-        "size": 2322816
+        "size": 2322808
 ,
         "units": ["kB"]
     }
@@ -85,7 +85,7 @@
     }
 ,
     "Dirty": {
-        "size": 472
+        "size": 104
 ,
         "units": ["kB"]
     }
@@ -97,13 +97,13 @@
     }
 ,
     "Active(file)": {
-        "size": 594672
+        "size": 594684
 ,
         "units": ["kB"]
     }
 ,
     "SUnreclaim": {
-        "size": 15068
+        "size": 15076
 ,
         "units": ["kB"]
     }
@@ -127,13 +127,13 @@
     }
 ,
     "Active(anon)": {
-        "size": 221876
+        "size": 221860
 ,
         "units": ["kB"]
     }
 ,
     "Slab": {
-        "size": 88172
+        "size": 88180
 ,
         "units": ["kB"]
     }
@@ -211,19 +211,19 @@
     }
 ,
     "Cached": {
-        "size": 727032
+        "size": 727044
 ,
         "units": ["kB"]
     }
 ,
     "MemAvailable": {
-        "size": 3013476
+        "size": 3013480
 ,
         "units": ["kB"]
     }
 ,
     "AnonPages": {
-        "size": 221780
+        "size": 221764
 ,
         "units": ["kB"]
     }
