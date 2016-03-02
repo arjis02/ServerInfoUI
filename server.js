@@ -12,9 +12,19 @@ app.get('/', function(req, res) {
 });
 
 app.get('/cpuinfo', function(req, res) {
-  var child = exec('luajit procinfo.lua cpuinfo > result.json');
-  res.setHeader( 'Content-Type': 'application/json');
-  res.send(JSON.stringify(path.join(__dirname+'/result.json')));
+  var child = exec('luajit procinfo.lua cpuinfo > cpuinfo.json');
+  var file = fs.readFileSync(path.join(__dirname+'/cpuinfo.json'), 'utf8');
+  
+  res.setHeader( 'Content-Type', 'application/json');
+  res.send(JSON.stringify(file));
+});
+
+app.get('/memfree', function(req, res) {
+  var child = exec('luajit memfree.lua > memfree.json');
+  var file = fs.readFileSync(path.join(__dirname+'/memfree.json'), 'utf8');
+  
+  res.setHeader( 'Content-Type', 'application/json');
+  res.send(JSON.stringify(file));
 });
 
 app.listen(8080);
