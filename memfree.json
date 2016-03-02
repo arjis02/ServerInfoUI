@@ -1,0 +1,248 @@
+{
+
+    "Active": {
+        "size": 815144
+,
+        "units": ["kB"]
+    }
+,
+    "DirectMap2M": {
+        "size": 3610624
+,
+        "units": ["kB"]
+    }
+,
+    "MemFree": {
+        "size": 2326084
+,
+        "units": ["kB"]
+    }
+,
+    "MemTotal": {
+        "size": 3523128
+,
+        "units": ["kB"]
+    }
+,
+    "AnonHugePages": {
+        "size": 131072
+,
+        "units": ["kB"]
+    }
+,
+    "VmallocChunk": {
+        "size": 34359674768
+,
+        "units": ["kB"]
+    }
+,
+    "PageTables": {
+        "size": 4528
+,
+        "units": ["kB"]
+    }
+,
+    "SwapFree": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "Mapped": {
+        "size": 37368
+,
+        "units": ["kB"]
+    }
+,
+    "WritebackTmp": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "VmallocTotal": {
+        "size": 34359738367
+,
+        "units": ["kB"]
+    }
+,
+    "Inactive(anon)": {
+        "size": 652
+,
+        "units": ["kB"]
+    }
+,
+    "Buffers": {
+        "size": 96608
+,
+        "units": ["kB"]
+    }
+,
+    "DirectMap4k": {
+        "size": 59328
+,
+        "units": ["kB"]
+    }
+,
+    "Dirty": {
+        "size": 96
+,
+        "units": ["kB"]
+    }
+,
+    "Hugepagesize": {
+        "size": 2048
+,
+        "units": ["kB"]
+    }
+,
+    "Active(file)": {
+        "size": 593524
+,
+        "units": ["kB"]
+    }
+,
+    "SUnreclaim": {
+        "size": 15080
+,
+        "units": ["kB"]
+    }
+,
+    "CmaFree": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "Mlocked": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "CmaTotal": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "Active(anon)": {
+        "size": 221620
+,
+        "units": ["kB"]
+    }
+,
+    "Slab": {
+        "size": 87504
+,
+        "units": ["kB"]
+    }
+,
+    "Committed_AS": {
+        "size": 736440
+,
+        "units": ["kB"]
+    }
+,
+    "HardwareCorrupted": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "Unevictable": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "Shmem": {
+        "size": 748
+,
+        "units": ["kB"]
+    }
+,
+    "CommitLimit": {
+        "size": 1761564
+,
+        "units": ["kB"]
+    }
+,
+    "NFS_Unstable": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "VmallocUsed": {
+        "size": 56828
+,
+        "units": ["kB"]
+    }
+,
+    "Bounce": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "KernelStack": {
+        "size": 3856
+,
+        "units": ["kB"]
+    }
+,
+    "Inactive": {
+        "size": 227748
+,
+        "units": ["kB"]
+    }
+,
+    "Writeback": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "SReclaimable": {
+        "size": 72424
+,
+        "units": ["kB"]
+    }
+,
+    "Cached": {
+        "size": 724752
+,
+        "units": ["kB"]
+    }
+,
+    "MemAvailable": {
+        "size": 3013972
+,
+        "units": ["kB"]
+    }
+,
+    "AnonPages": {
+        "size": 221524
+,
+        "units": ["kB"]
+    }
+,
+    "Inactive(file)": {
+        "size": 227096
+,
+        "units": ["kB"]
+    }
+,
+    "SwapCached": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+,
+    "SwapTotal": {
+        "size": 0
+,
+        "units": ["kB"]
+    }
+}
